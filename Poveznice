@@ -6,6 +6,7 @@ DHT22
 nRF24
 * Malo o radio-frekvencijskom prijenosu podataka - https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/
                                                  - https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/
+                                                 - https://nrf24.github.io/RF24/index.html
 Raspberry Pi
 * Malo o Raspberry Pi - https://www.spiceworks.com/tech/networking/articles/what-is-raspberry-pi/
 Serial
