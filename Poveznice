@@ -1,8 +1,16 @@
 Arduino
 * Malo o Arduinu - https://learn.sparkfun.com/tutorials/what-is-an-arduino/all
+DHT22
+* Malo o senzoru temperature i vlage - learn.adafruit.com/dht/overview
+                                     - https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/
+nRF24
+* Malo o radio-frekvencijskom prijenosu podataka - https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/
+                                                 - https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/
 Raspberry Pi
 * Malo o Raspberry Pi - https://www.spiceworks.com/tech/networking/articles/what-is-raspberry-pi/
 Serial
 * Serijska komunikacija izmedju Arduina i Raspberry Pi - https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/
 MQTT
+* Malo o MQTT protokolu - https://developer.ibm.com/articles/iot-mqtt-why-good-for-iot/
+                        - http://www.steves-internet-guide.com/mqtt/
 * Kreiranje tema - https://www.emqx.com/en/blog/use-mqtt-with-raspberry-pi
